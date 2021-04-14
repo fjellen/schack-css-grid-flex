@@ -1,0 +1,25 @@
+.box-even {
+    background-color: #DFC389;
+    border: solid;
+    border-width: 2px;
+    border-color: #BE9542;
+    font-size: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.box-odd {
+    background-color: #C5A667;
+    border: solid;
+    border-width: 2px;
+    border-color: #BE9542;
+    font-size: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+  
+  

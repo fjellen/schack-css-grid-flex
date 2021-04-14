@@ -1,0 +1,63 @@
+.ruta-even:nth-last-of-type(1) {
+    background-color: #DFC389;
+}
+
+.ruta-even:nth-last-of-type(2) {
+    background-color: #C5A667;
+}
+
+.ruta-even:nth-last-of-type(3) {
+    background-color: #DFC389;
+}
+
+.ruta-even:nth-last-of-type(4) {
+    background-color: #C5A667;
+}
+
+.ruta-even:nth-last-of-type(5) {
+    background-color: #DFC389;
+}
+
+.ruta-even:nth-last-of-type(6) {
+    background-color: #C5A667;
+}
+
+.ruta-even:nth-last-of-type(7) {
+    background-color: #DFC389;
+}
+
+.ruta-even:nth-last-of-type(8) {
+    background-color: #C5A667;
+}
+
+.ruta-odd:nth-last-of-type(1) {
+    background-color: #C5A667;
+}
+
+.ruta-odd:nth-last-of-type(2) {
+    background-color: #DFC389;
+}
+
+.ruta-odd:nth-last-of-type(3) {
+    background-color: #C5A667;
+}
+
+.ruta-odd:nth-last-of-type(4) {
+    background-color: #DFC389;
+}
+
+.ruta-odd:nth-last-of-type(5) {
+    background-color: #C5A667;
+}
+
+.ruta-odd:nth-last-of-type(6) {
+    background-color: #DFC389;
+}
+
+.ruta-odd:nth-last-of-type(7) {
+    background-color: #C5A667;
+}
+
+.ruta-odd:nth-last-of-type(8) {
+    background-color: #DFC389;
+}
